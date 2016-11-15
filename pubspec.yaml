@@ -1,6 +1,8 @@
 name: beaver_demo_package_1
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
+author: fluidic <dev@fluidic.io>
+homepage: https://github.com/fluidic/beaver_demo_package_1
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
